@@ -1,4 +1,4 @@
-## Hi there 👋
+## Пробный проект полностью сделанный AI Kimi 2.5, Сайт лэндинг ветрина для бюжетерии👋
 
 <!--
 **delphinelil09-sys/delphinelil09-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
